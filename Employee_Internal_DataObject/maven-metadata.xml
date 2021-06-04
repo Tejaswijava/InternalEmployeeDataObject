@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.trainingpractice</groupId>
+  <artifactId>Employee_Internal_DataObject</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+      <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210601230132</lastUpdated>
+  </versioning>
+</metadata>
